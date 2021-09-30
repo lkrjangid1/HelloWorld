@@ -19,13 +19,8 @@ You can get your own fork/copy of [Hello-world](https://github.com/lkrjangid1/He
  [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/lkrjangid1/Hello-World-Hacktoverfest-2021)
 
 ### 3. Add a Program in any Language you like :rabbit2:
-Once you have forked the repo, add your program in the language folder in 
-main branch, if there is no language folder, make one, then add into it.
-You can take a look to the [Programming Language List](https://en.wikipedia.org/wiki/List_of_programming_languages) in Wikipedia to create a new one HelloWorld !
-For a pr to be approved and merged please note 
-- we allow maximum of 5000 additions (your prwill get close if its exceeds, but you can ask maintainer for reviewing this)
-- we dont allow deletions of others files or code.
-- we dont allow files to be directly added in root directory of project, add them in there language folder
+About Add any Program in any language you like or add a hello world Program
+
 ### 4. Ready, Steady, Go... :turtle: :rabbit2:
 
 Once you have completed these steps, you are ready to start contributing 
