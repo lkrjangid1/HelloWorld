@@ -1,13 +1,13 @@
-# Hello-World-Hacktoverfest-2021
+# Hello-World
 About Add any Program in any language you like or add a hello world Program ❣️ if you like give us ⭐
 
-![Screenshot 2021-09-30 205159](https://user-images.githubusercontent.com/64513385/135491638-92b6d3f5-5058-4210-a03e-d6df4925fc2d.png)
+<!-- ![Screenshot 2021-09-30 205159](https://user-images.githubusercontent.com/64513385/135491638-92b6d3f5-5058-4210-a03e-d6df4925fc2d.png)
 
 
 # What is Hacktoberfest?
-Hacktoberfest is a program organised by Digital Ocean and Github, where you can easily win a T-Shirt just by making 5 pull requests in the month of October to any open source projects on Github.
+Hacktoberfest is a program organised by Digital Ocean and Github, where you can easily win a T-Shirt just by making 5 pull requests in the month of October to any open source projects on Github. -->
 
-## Steps to follow :scroll:
+<!-- ## Steps to follow :scroll:
 
 ### 1. Register for Hacktoberfest
 You can register from [here](https://hacktoberfest.digitalocean.com).
@@ -24,9 +24,9 @@ About Add any Program in any language you like or add a hello world Program
 ### 4. Ready, Steady, Go... :turtle: :rabbit2:
 
 Once you have completed these steps, you are ready to start contributing 
-by checking our `Help Wanted` issues and creating [pull requests](https://github.com/lkrjangid1/Hello-World-Hacktoverfest-2021/pulls).
+by checking our `Help Wanted` issues and creating [pull requests](https://github.com/lkrjangid1/Hello-World-Hacktoverfest-2021/pulls). -->
 
-### 5. Give this Project a Star :star:
+Give this Project a Star :star:
 
 If you liked working on this project, please share this project as much 
 as you can and star this project to help as many people in open source as you can.
